@@ -1,7 +1,11 @@
 <h1 align="center">Blockscout</h1>
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
+## Update
 
+This repository was updated on September 12, 2025.  
+For the latest features and improvements, check out the [project documentation](https://docs.blockscout.com/) or visit our [Discussions](https://github.com/blockscout/blockscout/discussions) page.  
+We welcome contributions and feedback from the community!
 [![Blockscout](https://github.com/blockscout/blockscout/actions/workflows/config.yml/badge.svg)](https://github.com/blockscout/blockscout/actions)
 [![Discord](https://dcbadge.vercel.app/api/server/blockscout?style=flat)](https://discord.gg/blockscout)
 
